@@ -1,0 +1,6 @@
+co\com\mercadolibre\dto\RequestMutantDto.class
+co\com\mercadolibre\dao\MutantsDao.class
+co\com\mercadolibre\dto\ResponseStats.class
+co\com\mercadolibre\RestServiceApp.class
+co\com\mercadolibre\dao\MutantsRepository.class
+co\com\mercadolibre\App.class
